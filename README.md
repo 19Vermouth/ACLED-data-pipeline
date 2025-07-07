@@ -2,6 +2,7 @@
 
 A modular Python pipeline for **extracting**, **transforming**, **loading**, and **visualizing** conflict data from the [ACLED (Armed Conflict Location & Event Data Project)](https://acleddata.com/) API.  
 This project fetches conflict event data for a specified country and time period, processes it, stores it in a **SQLite** database, and generates visualizations, including an **interactive map**.
+**Data source: Armed Conflict Location & Event Data Project (ACLED); www.acleddata.com.**
 
 ---
 
