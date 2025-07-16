@@ -48,7 +48,7 @@ source venv/bin/activate       # On Windows: venv\Scripts\activate
 ```
 ### 3. Install Dependencies
 ``` 
-ip install -r requirements.txt
+pip install -r requirements.txt
 ```
 If requirements.txt is missing, manually install:
 ```
